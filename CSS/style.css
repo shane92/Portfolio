@@ -1,0 +1,234 @@
+
+body{
+  margin: 0;
+ font-family: 'montseratt',sans-serif;
+ background-color:#b5dfca52;
+}
+hr
+{
+  width: 40px;
+  margin: 20px auto 50px auto;
+  border-style: dotted none none none;
+  border-width: 5px;
+  border-color: #512b58;
+
+}
+
+#greeting
+{
+  color:#512b58;
+  margin: 30px auto 20px auto;
+  width:50%;
+  text-align: center;
+
+
+}
+#bio
+{
+  color:#2a7886;
+  font-family:'Source Serif Pro', serif;
+  font-weight: 500;
+  width:50%;
+  margin: 0 auto 20px auto;
+  text-align: justify;
+  line-height: 30pt;
+
+}
+.name
+{
+  font-family: 'Montserrat Subrayada', sans-serif;
+  font-weight:bold;
+  text-align: center;
+  font-size:562.5%;
+  color:#66BFBF;
+}
+.title
+{
+  margin-top:10px;
+  text-align:center;
+  font-size: 1.31rem;
+  color:#66BFBF;
+  letter-spacing: 6.9px;
+
+}
+.top-container
+{
+  padding-top:20px;
+  margin-left: 10px;
+
+}
+
+h1
+{
+  margin-top:50px;
+  margin-bottom:10px;
+}
+
+
+.topcloud
+{
+  display:block;
+  margin-left:60%;
+
+}
+
+
+.btmcloud
+{
+    display: block;
+    margin-left: 30%;
+
+}
+
+
+.mountain
+{
+  margin:  auto;
+  display: none;
+
+}
+
+.opic
+{
+  margin:100px auto 0 auto;
+  width: 300px;
+  height: auto;
+  display:block;
+  border-radius: 100%;
+}
+
+.skills
+{
+ height: 400px;
+ padding: 30px;
+ }
+
+.middle-container
+{
+ background-color: white;
+ padding: 20px;
+}
+
+
+.my_skill
+{
+width: 20%;
+text-align:center;
+margin: 0 auto 10px auto;
+color:#512b58;
+
+}
+
+.sklimg
+{
+
+  width:150px;
+  height:150px;
+  margin-right: 20px;
+
+  float: left;
+
+}
+
+.GDesigntitle
+{
+  text-align:left;
+  color:#512b58;
+  position: relative;
+  top: 50px;
+
+}
+
+.GDesignpar
+{
+  position: relative;
+  top: 50px;
+  font-family:'Source Serif Pro', serif;
+  color:#2a7886
+}
+
+.skill-row
+{
+width: 50%;
+margin: 0 auto 0  auto;
+
+
+}
+
+.WDesigntitle
+{
+
+  color:#512b58;
+
+}
+.WDesignpar
+{
+font-family:'Source Serif Pro', serif;
+color:#2a7886
+
+}
+.skill-row_sec
+{
+margin: 100px auto 0 auto;
+width:50%;
+text-align:right;
+}
+.sklimg2
+{
+
+  width:150px;
+  height:150px;
+  float:right;
+  margin-left: 30px;
+  position:relative;
+  bottom: 50px;
+}
+.contact-me
+{
+  text-align: center;
+}
+
+.btn
+{
+  display:inline-block;
+   margin-top: 10px;
+   margin-bottom:50px;
+   text-decoration: none;
+   background-color: #66BFBF;
+   padding: 10px;
+   border-radius: 5px;
+   color: white;
+   transition: background-color .1s
+}
+
+.btn:hover
+{
+  background-image: linear-gradient(180deg, #66BFBF, #512b58)
+}
+
+.bottom-container
+{
+  text-align: center;
+}
+
+.get_in_tch
+{
+  color: #512b58;
+}
+
+.footer-link
+{
+  display:inline-block;
+  margin-right:20px;
+  margin-top:50px;
+  text-decoration: none;
+  color: #512b58;
+  font-weight:bold;
+  display:none;
+}
+.copyright
+{
+  font-weight:bold;
+  font-size: .90rem;
+  color: #66BFBF;
+}
